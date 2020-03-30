@@ -100,7 +100,7 @@ Smart Router Project Kickoff
  -  회로 수정후 개선됨
 
 #### 2.1 중국 공장
-1. Add MobileFFmpeg dependency to your `build.gradle` in `mobile-ffmpeg-<package name>` format
+1. Add anything to your `list` in `any` format
     ```
     공장 테스트 리포트 공유 {
          '문서 번호 : 2020200 xx 공유'
