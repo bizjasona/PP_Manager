@@ -132,13 +132,9 @@ Smart Router Project Kickoff
 
 ### 3. Versions history 
 
-`MobileFFmpeg` version number is aligned with `FFmpeg` since version `4.2`. 
-
-In previous versions, `MobileFFmpeg` version of a release and `FFmpeg` version included in that release was different. 
-The following table lists `FFmpeg` versions used in `MobileFFmpeg` releases.
+`Smart hub` version number is aligned with `Smart hub` since version `1.0`. 
   
-- `dev` part in `FFmpeg` version number indicates that `FFmpeg` source is pulled from the `FFmpeg` `master` branch. 
-Exact version number is obtained using `git describe --tags`. 
+- `debug` part in `Smart hub version number indicates that `Smart hub` source is pulled from the `Smart hub` `bug` branch. 
 
 |       Original Version | bugfix Version | bug fix Date |
 | :----: | :----: |:----: |
