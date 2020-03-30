@@ -6,14 +6,14 @@ Smart Router Project Kickoff
 
 -HW Block diagram
 
-<img src="screenshots/HWDiagram.png" width="480"  height="320"  >
+<img src="HWDiagram.png" width="480"  height="320"  >
 
 <!-- 이미지 소스 패스 및 사이즈 지정  -->
 
 <br>
 -Test diagram
     
-<img src="screenshots/aboutGIT_05.gif" width="480"  height="320"  >
+<img src="aboutGIT_05.gif" width="480"  height="320"  >
 
 ### 1. Features
 - 프로젝트 메니저:
