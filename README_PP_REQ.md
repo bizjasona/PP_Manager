@@ -138,6 +138,13 @@ Smart Router Project Kickoff
 
 |       Original Version | bugfix Version | bug fix Date |
 | :----: | :----: |:----: |
+| [1.2] | 1.2-debug-1181 |  4월 1일, 2020 |
 | [1.0] | 1.0-debug-2020 | Jan 25, 2020 |
 | [1.01]| 1.1-debug-2020 | Feb 25, 2020 |
+| [1.2] | 1.2-debug-1181 |  Mar 27, 2019 |
+| [1.3] | 1.2-bugfix-2020 | Mar 27, 2019 |
+| [1.2] | 1.2-debug-1181 |  Mar 27, 2019 |
+| [1.2] | 1.2-debug-1181 |  Mar 27, 2019 |
+| [1.2] | 1.2-debug-1181 |  Mar 27, 2019 |
+| [1.2] | 1.2-debug-1181 |  Mar 27, 2019 |
 | [1.2] | 1.2-debug-1181 |  Mar 27, 2019 |
